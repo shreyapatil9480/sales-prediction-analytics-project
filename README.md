@@ -86,3 +86,6 @@ This project is released under the [MIT License](https://opensource.org/licenses
 
 ---
 **Author:** Shreya Patil (shreyapatil9480)
+
+
+*Note:* This branch includes the initial project files and demonstrates creating and analyzing a synthetic sales dataset for business analytics.
