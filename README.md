@@ -1,3 +1,7 @@
+[![Python CI](https://github.com/shreyapatil9480/sales-prediction-analytics-project/actions/workflows/python-ci.yml/badge.svg)](https://github.com/shreyapatil9480/sales-prediction-analytics-project/actions/workflows/python-ci.yml)
+![Python](https://img.shields.io/badge/python-3.11-blue)
+![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC)
+
 # Sales Prediction Analytics Project
 
 Which shifts meet throughput SLA?
@@ -20,6 +24,14 @@ Target variable: `meets_sla`
 ```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/case_study.ipynb
+```
+
+
+## Testing
+
+```bash
+pip install -r requirements.txt
+pytest tests/ --cov=src
 ```
 
 ## CLI Usage
