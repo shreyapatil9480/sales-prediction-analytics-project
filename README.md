@@ -55,6 +55,12 @@ Deploy Streamlit dashboard for business self-service.
 
 <!-- build 9 -->
 
+## Live Demo
+
+**[Open app](https://sales-prediction-analytics-project-agmb7kf2vcefuahz7ntepj.streamlit.app/)** — Streamlit Community Cloud
+
+Local run: `streamlit run app/streamlit_app.py`
+
 ### Implemented
 
 ```bash
